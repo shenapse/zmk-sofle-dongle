@@ -61,6 +61,7 @@
 
             sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
             display-name = "LAYER0";
+            label = "base";
         };
 
         layer_1 {
